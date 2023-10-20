@@ -1,8 +1,4 @@
-<div>
-<h3 align="center">Visitor</h3>
-<div align="center">
-  <a href="https://hklee.me"><img src="https://count.getloli.com/get/@skysumbra"/></a>
-</div>
+![Visited By](https://count.getloli.com/get/@skysumbra?theme=gelbooru)
   
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
