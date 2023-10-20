@@ -10,6 +10,6 @@
   
 ### 📱 Devices
 [![](https://img.shields.io/badge/Realme%20x7%20pro-black?style=for-the-badge)](https://www.realme.com/cn/realme-x7-pro/specs)
-  
-[![](https://raw.githubusercontent.com/skysumbra/skysumbra/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skysumbra&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta )
+
+| [![](https://raw.githubusercontent.com/skysumbra/skysumbra/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skysumbra&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta ) |
+| --- | --- |
