@@ -6,7 +6,7 @@
   
 ### 📱 Devices
 [![](https://img.shields.io/badge/Realme%20x7%20pro-black?style=for-the-badge)](https://www.realme.com/cn/realme-x7-pro/specs)
-[![](https://img.shields.io/badge/Realme%20gt6-black?style=for-the-badge)](https://www.realme.com/cn/realme-gt6/specs)
+[![](https://img.shields.io/badge/Realme%20gt6-black?style=for-the-badge)](https://www.realme.com/cn/realme-gt-6/specs)
 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=skysumbra&theme=tokyonight&show_icons=true">
