@@ -1,11 +1,12 @@
 ![Visited By](https://count.getloli.com/get/@skysumbra?theme=gelbooru)
   
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2018.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/18.04/)
+[![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2018.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/20.04/)
   
 ### 📱 Devices
 [![](https://img.shields.io/badge/Realme%20x7%20pro-black?style=for-the-badge)](https://www.realme.com/cn/realme-x7-pro/specs)
+[![](https://img.shields.io/badge/Realme%20x7%20pro-black?style=for-the-badge)](https://www.realme.com/cn/realme-gt6/specs)
 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=skysumbra&theme=tokyonight&show_icons=true">
